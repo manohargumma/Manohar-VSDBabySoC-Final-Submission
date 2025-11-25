@@ -159,8 +159,7 @@ Copy-paste directly into your `README.md`.
 ### Synthesis progress  
 ![image(https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-28-04.png)
 
-### Netlist generation  
-![image](https://raw.giHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
 
 
 
@@ -169,8 +168,7 @@ Copy-paste directly into your `README.md`.
 ---
 ![iverilog GLS](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-48.png)
 
-### GLS simulation output  
-![image](https://raw.githubusercontent.com/manohargumma/Post-SyntHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
 
 
 
@@ -185,7 +183,7 @@ Copy-paste directly into your `README.md`.
 
 ### dfflibmap    Static behavior evaluation: CMOS inverter robustness, Noise margin
 ##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
-![dfflibmap](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/d19c73a011980fa99840aeda6236368bf577bee7/Screenshot%20from%202025-10-07%2023-32-03.png)
+![image](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/d19c73a011980fa99840aeda6236368bf577bee7/Screenshot%20from%202025-10-07%2023-32-03.png)
 
 ---
 
@@ -207,8 +205,7 @@ Copy-paste directly into your `README.md`.
 ### setundef  
 ![setundef](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/c53ac320b067cf9feda530fa758ecba2144563a7/Screenshot%20from%202025-10-07%2023-35-15.png)
 
-### clean  
-![clean](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/1df693beaf0fHere
+
 ### rename  
 ![rename](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/c53ac320b067cf9feda530fa758ecba2144563a7/Screenshot%20from%202025-10-07%2023-36-34.png)
 
@@ -351,7 +348,8 @@ Copy-paste directly into your `README.md`.
 
 ![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-47.png)
 
----
+---### clean  
+![clean](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/1df693beaf0fHere
 
 ## **OpenROAD GUI Launch (Screenshot 1)**
 
