@@ -336,8 +336,7 @@ Copy-paste directly into your `README.md`.
 
 ![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-47.png)
 
----### clean  
-![clean](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/1df693beaf0fHere
+
 
 ## **OpenROAD GUI Launch (Screenshot 1)**
 
