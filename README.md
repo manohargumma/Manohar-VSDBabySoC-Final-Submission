@@ -113,8 +113,8 @@ Copy-paste directly into your `README.md`.
 
 
 
-
-# 1️⃣ Reading Verilog Files
+# week-3 
+## 1️ Reading Verilog Files
 
 ### vsdbabysoc.v  
 ![vsdbabysoc.v](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-10-14.png)
@@ -130,7 +130,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 2️⃣ Reading Liberty Files
+## 2️ Reading Liberty Files
 
 ### avsdpll.lib  
 ![avsdpll.lib](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-21-27.png)
@@ -143,7 +143,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 3️⃣ Synthesis Steps
+## 3️ Synthesis Steps
 
 ### synth -top  
 ![synth -top](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-27-16.png)
@@ -171,7 +171,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 4️⃣ DFF Mapping
+## 4️ DFF Mapping
 
 ### dfflibmap    Static behavior evaluation: CMOS inverter robustness, Noise margin
 ##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
@@ -179,7 +179,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 5️⃣ Optimization & ABC
+## 5️ Optimization & ABC
 
 ### opt  
 ![opt](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2d770bf0f4969b860d5d56e1c2777f2a65da34a9/Screenshot%20from%202025-10-07%2023-32-25.png)
@@ -189,7 +189,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 6️⃣ Cleanup Steps
+## 6️ Cleanup Steps
 
 ### flatten  
 ![flatten](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/c53ac320b067cf9feda530fa758ecba2144563a7/Screenshot%20from%202025-10-07%2023-34-48.png)
@@ -203,7 +203,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 7️⃣ Statistics  Static behavior evaluation: CMOS inverter robustness, Noise margin
+## 7️ Statistics  Static behavior evaluation: CMOS inverter robustness, Noise margin
 ##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
 
 ### stat-1  
@@ -214,7 +214,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 8️⃣ Write Netlist
+## 8️ Write Netlist
 
 ### write_verilog  
 ![write_verilog](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/7c3a334eaa734eb84950d499d893a205dd40387e/Screenshot%20from%202025-10-07%2023-45-33.png)
@@ -223,7 +223,7 @@ Copy-paste directly into your `README.md`.
 
 
 ---
-# 9️⃣ Post-Synthesis Simulation
+## 9️ Post-Synthesis Simulation
 
 ### iverilog compile  
 ![iverilog compile](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/c24ce908348f2d59b1e1bd43c3403c2307f9a1b5/Screenshot%20from%202025-10-07%2023-55-33.png)
@@ -239,7 +239,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 🔟 STA – Inline OpenSTA
+##   STA – Inline OpenSTA
 
 ### Inline STA screenshot 1  
 ![Inline STA 1](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/ab6836667bcd3cbf53197e4df1f605205eff8250/Screenshot%20from%202025-10-09%2018-24-54.png)
@@ -249,7 +249,7 @@ Copy-paste directly into your `README.md`.
 
 
 
-# 1️⃣1️⃣ Min/Max STA
+## Min/Max STA
 
 ![MinMax1](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-11%2011-49-50.png)  ---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
@@ -258,7 +258,7 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 1️⃣2️⃣ VSDBabySoC STA
+## VSDBabySoC STA
 
 ![VSDBabySoC STA](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2b38cc277a994bd1d54e62eb6e019cd21d323326/Screenshot%20from%202025-10-11%2012-02-10.png)
 
