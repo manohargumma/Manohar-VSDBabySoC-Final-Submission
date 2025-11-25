@@ -64,7 +64,10 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 ![docker-check](https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png)
 
 ---
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
+No extra text. No explanation.
+Just clean headings + links.
 ## **8. OpenLane + PDK Setup**
 
 ### **8.1 CIEL Remote PDK List**
@@ -141,13 +144,6 @@ Just clean headings + links.
 
 ### clk_gate.v  Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
-
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
-
-No extra text. No explanation.
-Just clean headings + links.
 
 ---
 ![clk_gate.v](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-17-10.png)
@@ -178,15 +174,10 @@ Just clean headings + links.
 ### Netlist generation  
 ![Netlist generation](https://raw.giHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
----thubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-31.png)
 
 ### iverilog GLS  Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
 ---
 ![iverilog GLS](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-48.png)
@@ -194,23 +185,12 @@ Just clean headings + links.
 ### GLS simulation output  
 ![GLS simulation output](https://raw.githubusercontent.com/manohargumma/Post-SyntHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
-
-No extra text. No explanation.
-Just clean headings + links.
-
----hesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-26.png)
 
 ### GLS verification  
 ![GLS verification](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-37.png)
 
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
 ---
 
@@ -242,7 +222,10 @@ Just clean headings + links.
 
 ### clean  
 ![clean](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/1df693beaf0fHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
+No extra text. No explanation.
+Just clean headings + links.
 No extra text. No explanation.
 Just clean headings + links.
 
@@ -300,25 +283,18 @@ Just clean headings + links.
 ![Inline STA 2](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-09%2018-24-13.png)
 Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
+.
 
 ---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
 ---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
-
----
----
 
 # 1️⃣1️⃣ Min/Max STA
 
-![MinMax1](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-11%2011-49-50.png)  
+![MinMax1](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-11%2011-49-50.png)  ---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
 ![MinMax2](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-11%2011-49-58.png)  
 ![MinMax3](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-11%2011-50-05.png)
 
@@ -350,8 +326,6 @@ Just clean headings + links.
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-12.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-32.png)Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
 ---
 ### Sky130 SPICE simulation for CMOS - Transient Analysis
@@ -365,12 +339,9 @@ Just clean headings + links.
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-34-51.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-33-18.png)
 ### **CMOS Inverter Robustness: Extreme Device Width Variation**
-!https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIOHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
----NS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-57-50.png)
+
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-58-43.png)
 # WEEK-5
 # OpenROAD-Installation-guide--BUILD-With-Docker
