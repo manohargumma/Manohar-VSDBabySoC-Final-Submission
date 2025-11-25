@@ -11,7 +11,7 @@
 ## 1. Project Summary  
 This repository consolidates my complete work on the VSDBabySoC project — from RTL functional modelling through to GDSII generation and timing closure.  It incorporates work carried out in the following prior repositories:
 
-- [Manohar_RTL2GDS](https://github.com/manohargumma/Manohar_RTL2GDS) – End-to-end flow (RTL → GDS)  
+- [Tools setup](https://github.com/manohargumma/Manohar_RTL2GDS) – End-to-end flow (RTL → GDS)  
 - [BabySoC-Fundamentals-Functional-Modelling](https://github.com/manohargumma/BabySoC-Fundamentals-Functional-Modelling) – RTL & simulation focus  
 - [Post-Synthesis-GLS-STA-Fundamentals](https://github.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals) – Gate level simulation + STA work  
 - [INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS) – Supporting analog/verification portion  
