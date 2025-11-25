@@ -2,7 +2,7 @@
 
 # VSDBabySoC – Complete RTL-to-GDSII Journey  
 **Author:** Manohar Gumma  
-**GitHub:** https://github.com/manohargumma  
+**GitHub:** https://github.com/manohargumma   
 **Course/Project:** VSD – Advanced Physical Design Flow  
 **Submission:** Week 9 – Final Documentation  
 
