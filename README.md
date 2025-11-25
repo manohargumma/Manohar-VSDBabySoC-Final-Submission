@@ -19,154 +19,82 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 - [Physical-Design-Workshop](https://github.com/manohargumma/Physical-Design-Workshop) – Hands-on layout/placement practices  
 
 
+Got it — you want the **images to be visible directly in the README**, not just links.
 
+Here is the **markdown version with images displayed**, using your exact image URLs.
 
-# ## **1. Tool Installations**
-
-### **1. Yosys Installation**
-
-[https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png](https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png)
-
-### **2. Icarus Verilog Installation**
-
-[https://i.ibb.co/YTKYkBTX/Screenshot-from-2025-09-19-22-22-25.png](https://i.ibb.co/YTKYkBTX/Screenshot-from-2025-09-19-22-22-25.png)
-
-### **3. GTKWave Installation**
-
-[https://i.ibb.co/Xx35s7Sv/Screenshot-from-2025-09-19-22-28-02.png](https://i.ibb.co/Xx35s7Sv/Screenshot-from-2025-09-19-22-28-02.png)
-
-### **4. OpenTimer Installation**
-
-[https://i.ibb.co/21xRfkQ2/Screenshot-from-2025-09-19-22-41-46.png](https://i.ibb.co/21xRfkQ2/Screenshot-from-2025-09-19-22-41-46.png)
-
-### **5. Ngspice Installation**
-
-[https://i.ibb.co/673CjR9K/Screenshot-from-2025-09-19-22-45-25.png](https://i.ibb.co/673CjR9K/Screenshot-from-2025-09-19-22-45-25.png)
-
-### **6. Magic VLSI Installation**
-
-[https://i.ibb.co/Rk3G7Vxy/Screenshot-from-2025-09-19-22-54-03.png](https://i.ibb.co/Rk3G7Vxy/Screenshot-from-2025-09-19-22-54-03.png)
-
-### **7. Docker & Basic Tools Installation**
-
-[https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png](https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png)
-
-### **8. OpenLane + PDK Setup**
-
-[https://i.ibb.co/9HhJJYqr/Screenshot-from-2025-09-20-18-32-29.png](https://i.ibb.co/9HhJJYqr/Screenshot-from-2025-09-20-18-32-29.png)
-[https://i.ibb.co/LdMnc6mF/Screenshot-from-2025-09-20-18-35-10.png](https://i.ibb.co/LdMnc6mF/Screenshot-from-2025-09-20-18-35-10.png)
-[https://i.ibb.co/WN9f0ZhX/Screenshot-from-2025-09-20-18-52-06.png](https://i.ibb.co/WN9f0ZhX/Screenshot-from-2025-09-20-18-52-06.png)
+You can **copy–paste this directly into README.md** and GitHub will show all images.
 
 ---
 
-# ## **2. VSDBabySoC RTL + Simulation**
+# 📘 **Tool Installation – Screenshots**
 
-(Add your images here — Verilog files, iverilog simulation, GTKWave output)
+## **1. Yosys Installation**
 
----
-
-# ## **3. Synthesis (Yosys)**
-
-(Add screenshots of yosys synthesis logs, synthesized netlist)
+![yosys](https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png)
 
 ---
 
-# ## **4. Floorplan (OpenLane)**
+## **2. Icarus Verilog Installation**
 
-(Add images: die area, core area, floorplan logs)
-
----
-
-# ## **5. Placement**
-
-(Add images of global placement, detailed placement)
+![iverilog](https://i.ibb.co/YTKYkBTX/Screenshot-from-2025-09-19-22-22-25.png)
 
 ---
 
-# ## **6. Clock Tree Synthesis (CTS)**
+## **3. GTKWave Installation**
 
-(Add images of clock tree, CTS logs)
-
----
-
-# ## **7. Routing (Global + Detailed)**
-
-(Add routing images, routed DEF, congestion map)
+![gtkwave](https://i.ibb.co/Xx35s7Sv/Screenshot-from-2025-09-19-22-28-02.png)
 
 ---
 
-# ## **8. SPEF Extraction**
+## **4. OpenTimer Installation**
 
-(Add your SPEF screenshots)
-
----
-
-# ## **9. STA (Static Timing Analysis)**
-
-(Add OpenTimer / OpenSTA timing reports)
+![opentimer](https://i.ibb.co/21xRfkQ2/Screenshot-from-2025-09-19-22-41-46.png)
 
 ---
 
-# ## **10. Unique Contributions / Experiments**
+## **5. Ngspice Installation**
 
-(Add any:
-
-* Custom scripts
-* Modified config.tcl
-* Custom LEF/lib changes
-* Any special fix you performed
-  )
+![ngspice](https://i.ibb.co/673CjR9K/Screenshot-from-2025-09-19-22-45-25.png)
 
 ---
 
-# ## **11. Final GDSII Output**
+## **6. Magic VLSI Installation**
 
-(Add Magic or KLayout screenshot of the final GDS)
-
----
-
-# ## **12. Repository Structure**
-
-```
-VSDBabySoC-Final/
-│
-├── README.md
-├── docs/
-│   ├── tools/
-│   ├── synthesis/
-│   ├── floorplan/
-│   ├── placement/
-│   ├── routing/
-│   ├── sta/
-│   └── final_gds/
-│
-├── images/
-│   ├── tools/
-│   ├── simulation/
-│   ├── synth/
-│   ├── floorplan/
-│   ├── routing/
-│   └── sta/
-│
-└── results/
-    ├── netlists/
-    ├── def/
-    ├── spef/
-    └── reports/
-```
+![magic](https://i.ibb.co/Rk3G7Vxy/Screenshot-from-2025-09-19-22-54-03.png)
 
 ---
 
-# ## **13. Declaration**
+## **7. Docker & Tool Versions Check**
 
-This repository is **completely created by me**, includes **my own screenshots**, and follows the **IIT Gandhinagar rules**.
+![docker-check](https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png)
 
 ---
 
-If you want, I can also:
+## **8. OpenLane + PDK Setup**
 
-✅ Generate the same README **filled with content** (not only placeholders)
-✅ Generate a **full repo folder structure zip**
-✅ Write **Week-wise documentation pages**
+### **8.1 CIEL Remote PDK List**
 
-Just tell me **“Generate full version”** or **“Give Week-wise docs”**.
+![ciel-list-remote](https://i.ibb.co/9HhJJYqr/Screenshot-from-2025-09-20-18-32-29.png)
+
+### **8.2 CIEL PDK Enable**
+
+![ciel-enable](https://i.ibb.co/LdMnc6mF/Screenshot-from-2025-09-20-18-35-10.png)
+
+### **8.3 OpenLane Test**
+
+![openlane-test](https://i.ibb.co/WN9f0ZhX/Screenshot-from-2025-09-20-18-52-06.png)
+
+---
+
+# ✔️ **DONE — All images visible directly in README**
+
+If you want, I can now also generate:
+
+✅ A full **project README** with all sections
+OR
+✅ README for **Week 9 final submission (VSDBabySoC)**
+OR
+✅ README combining **your two previous repos + these screenshots**
+
+Just tell me **which one you want**.
