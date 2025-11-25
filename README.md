@@ -19,5 +19,5 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 - [Physical-Design-Workshop](https://github.com/manohargumma/Physical-Design-Workshop) – Hands-on layout/placement practices  
 
 # TOOLS Instaltion
- <u>yosys</u>
+ ### yosys
  <a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br />
