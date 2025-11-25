@@ -157,26 +157,25 @@ Copy-paste directly into your `README.md`.
 ![synth -top](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-27-16.png)
 
 ### Synthesis progress  
-![Synthesis progress](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-28-04.png)
+![image(https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-28-04.png)
 
 ### Netlist generation  
-![Netlist generation](https://raw.giHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+![image](https://raw.giHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
 
 
-### iverilog GLS  Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
 
 ---
 ![iverilog GLS](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-48.png)
 
 ### GLS simulation output  
-![GLS simulation output](https://raw.githubusercontent.com/manohargumma/Post-SyntHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+![image](https://raw.githubusercontent.com/manohargumma/Post-SyntHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
 
 
 ### GLS verification  
-![GLS verification](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-37.png)
+![image](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-37.png)
 
 
 
@@ -232,7 +231,6 @@ Copy-paste directly into your `README.md`.
 ![write_verilog](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/7c3a334eaa734eb84950d499d893a205dd40387e/Screenshot%20from%202025-10-07%2023-45-33.png)
 
 ---
-Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
 
 ---
@@ -259,14 +257,7 @@ Here you go — **ONLY the headings + image links**, exactly as you want them to
 
 ### Inline STA screenshot 2  
 ![Inline STA 2](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-09%2018-24-13.png)
-Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-.
-
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
-
-
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
 
 # 1️⃣1️⃣ Min/Max STA
