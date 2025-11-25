@@ -267,3 +267,14 @@ Copy-paste directly into your `README.md`.
 ## The plot of Ids vs Vds over constant Vgs:
 ![image](https://github.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/blob/7e1e3a0769f7f19e38580a00c6c3442d4775182d/Screenshot%20from%202025-10-16%2016-05-03.png)
 ![image](https://github.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/blob/7e1e3a0769f7f19e38580a00c6c3442d4775182d/Screenshot%20from%202025-10-16%2016-05-09.png)
+
+## SPICE simulation for lower nodes and velocity saturation effect
+### Sky130 Id-Vgs
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-06-51.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-06-42.png)
+
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-03-55.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-55.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-35.png)
+
+
