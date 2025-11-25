@@ -121,18 +121,6 @@ Copy-paste directly into your `README.md`.
 
 # Week-3 — Post-Synthesis GLS & STA — VSDBabySoC
 
-![Tool-Yosys](https://img.shields.io/badge/Tool-Yosys-blue)
-![Simulator-Icarus_Verilog](https://img.shields.io/badge/Simulator-Icarus_VerilogHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
-
-No extra text. No explanation.
-Just clean headings + links.
-
-----orange)
-![Analyzer-OpenSTA](https://img.shields.io/badge/Analyzer-OpenSTA-green)
-![Library-sky130_fd_sc_hd](https://img.shields.io/badge/Library-sky130_fd_sc_hd-yellow)
-![Platform-Linux](https://img.shields.io/badge/Platform-Linux-lightgrey)
-
----
 
 # 1️⃣ Reading Verilog Files
 
@@ -221,15 +209,7 @@ Just clean headings + links.
 ![setundef](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/c53ac320b067cf9feda530fa758ecba2144563a7/Screenshot%20from%202025-10-07%2023-35-15.png)
 
 ### clean  
-![clean](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/1df693beaf0fHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
-
-No extra text. No explanation.
-Just clean headings + links.
-No extra text. No explanation.
-Just clean headings + links.
-
-
+![clean](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/1df693beaf0fHere
 ### rename  
 ![rename](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/c53ac320b067cf9feda530fa758ecba2144563a7/Screenshot%20from%202025-10-07%2023-36-34.png)
 
@@ -254,8 +234,6 @@ Just clean headings + links.
 ---
 Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
 
 ---
 # 9️⃣ Post-Synthesis Simulation
