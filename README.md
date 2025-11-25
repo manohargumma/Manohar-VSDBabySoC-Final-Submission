@@ -119,7 +119,12 @@ Copy-paste directly into your `README.md`.
 # Week-3 — Post-Synthesis GLS & STA — VSDBabySoC
 
 ![Tool-Yosys](https://img.shields.io/badge/Tool-Yosys-blue)
-![Simulator-Icarus_Verilog](https://img.shields.io/badge/Simulator-Icarus_Verilog-orange)
+![Simulator-Icarus_Verilog](https://img.shields.io/badge/Simulator-Icarus_VerilogHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+----orange)
 ![Analyzer-OpenSTA](https://img.shields.io/badge/Analyzer-OpenSTA-green)
 ![Library-sky130_fd_sc_hd](https://img.shields.io/badge/Library-sky130_fd_sc_hd-yellow)
 ![Platform-Linux](https://img.shields.io/badge/Platform-Linux-lightgrey)
@@ -134,7 +139,17 @@ Copy-paste directly into your `README.md`.
 ### rvmyth.v  
 ![rvmyth.v](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-16-17.png)
 
-### clk_gate.v  
+### clk_gate.v  Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---
 ![clk_gate.v](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-17-10.png)
 
 ---
@@ -177,7 +192,17 @@ Just clean headings + links.
 ![iverilog GLS](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-48.png)
 
 ### GLS simulation output  
-![GLS simulation output](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-26.png)
+![GLS simulation output](https://raw.githubusercontent.com/manohargumma/Post-SyntHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---hesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-26.png)
 
 ### GLS verification  
 ![GLS verification](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-37.png)
@@ -246,7 +271,12 @@ Just clean headings + links.
 [https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-36.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-36.png)
 
 ---
+Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
+No extra text. No explanation.
+Just clean headings + links.
+
+---
 ## **xeyes GUI Test**
 
 [https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-34-41.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-34-41.png)
@@ -275,6 +305,11 @@ Just clean headings + links.
 
 [https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-02-48.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-02-48.png)
 
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
 ---
 
 If you want these same links converted into actual **Markdown images (`![]()`)**, just tell me “convert to markdown images”.
@@ -302,7 +337,12 @@ If you want these same links converted into actual **Markdown images (`![]()`)**
 ![write_verilog](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/7c3a334eaa734eb84950d499d893a205dd40387e/Screenshot%20from%202025-10-07%2023-45-33.png)
 
 ---
+Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
+No extra text. No explanation.
+Just clean headings + links.
+
+---
 # 9️⃣ Post-Synthesis Simulation
 
 ### iverilog compile  
@@ -326,7 +366,22 @@ If you want these same links converted into actual **Markdown images (`![]()`)**
 
 ### Inline STA screenshot 2  
 ![Inline STA 2](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/a77725a8b5d4ad15e2c64f46cd88333ebbf1f4f9/Screenshot%20from%202025-10-09%2018-24-13.png)
+Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
+No extra text. No explanation.
+Just clean headings + links.
+
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---
 ---
 
 # 1️⃣1️⃣ Min/Max STA
@@ -361,7 +416,12 @@ If you want these same links converted into actual **Markdown images (`![]()`)**
 ##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
 
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-12.png)
-![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-32.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-32.png)Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---
 ### Sky130 SPICE simulation for CMOS - Transient Analysis
  ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/0b4d5b25ac94c10d92a98653432af855bafa745f/DAY3/day3pics/Screenshot%20from%202025-10-16%2012-20-46.png)
  ### Static behavior evaluation: CMOS inverter robustness, Noise margin
@@ -373,7 +433,12 @@ If you want these same links converted into actual **Markdown images (`![]()`)**
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-34-51.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-33-18.png)
 ### **CMOS Inverter Robustness: Extreme Device Width Variation**
-!https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-57-50.png)
+!https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIOHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---NS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-57-50.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-58-43.png)
 # WEEK-5
 
@@ -385,49 +450,50 @@ If you want these same links converted into actual **Markdown images (`![]()`)**
 
 ## **Xhost Permission Granted**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1dd9de649442ccda802ec48465a87d91f8d9fca/img/Screenshot%20from%202025-10-25%2021-50-26.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1dd9de649442ccda802ec48465a87d91f8d9fca/img/Screenshot%20from%202025-10-25%2021-50-26.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1dd9de649442ccda802ec48465a87d91f8d9fca/img/Screenshot%20from%202025-10-25%2021-50-26.png)
 
 ---
 
 ## **Docker Run with GUI Support (Terminal Screenshot 1)**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/af65197d3e4e0145c0f15722f8a567e6af47ed30/img/Screenshot%20from%202025-10-25%2021-33-56.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/af65197d3e4e0145c0f15722f8a567e6af47ed30/img/Screenshot%20from%202025-10-25%2021-33-56.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/af65197d3e4e0145c0f15722f8a567e6af47ed30/img/Screenshot%20from%202025-10-25%2021-33-56.png)
 
 ---
 
 ## **Docker Run with GUI Support (Terminal Screenshot 2)**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-36.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-36.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-36.png)
 
 ---
 
 ## **xeyes GUI Test**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-34-41.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-34-41.png)
+
+---
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-34-41.png)
 
 ---
 
 ## **OpenROAD Binary Location (which openroad)**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-47.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-47.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-35-47.png)
 
 ---
 
 ## **OpenROAD GUI Launch (Screenshot 1)**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2018-42-14.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2018-42-14.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2018-42-14.png)
 
----
 
 ## **OpenROAD GUI Version Info**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2018-42-23.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2018-42-23.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2018-42-23.png)
 
 ---
 
 ## **Final Working Setup (Desktop Screenshot)**
 
-[https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-02-48.png](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-02-48.png)
+![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-02-48.png)
 
 
 
