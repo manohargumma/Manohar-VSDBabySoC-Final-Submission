@@ -529,6 +529,3 @@ If you want, I can also **convert this entire README into a clean GitHub-ready m
 ![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png)
 ![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png)
 
----
-
-
