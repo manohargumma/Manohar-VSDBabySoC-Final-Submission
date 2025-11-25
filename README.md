@@ -27,7 +27,7 @@ You can **copy–paste this directly into README.md** and GitHub will show all i
 
 ---
 
-# 📘 **Tool Installation – Screenshots**
+#  **Tool Installation **
 
 ## **1. Yosys Installation**
 
@@ -85,16 +85,40 @@ You can **copy–paste this directly into README.md** and GitHub will show all i
 
 ![openlane-test](https://i.ibb.co/WN9f0ZhX/Screenshot-from-2025-09-20-18-52-06.png)
 
+
+## **Week-2 **
+
+
+## **1. OpenLane + PDK Setup**
+
+![img](https://i.ibb.co/dsK8PM3g/Screenshot-from-2025-10-03-18-49-27.png)
+
 ---
 
-# ✔️ **DONE — All images visible directly in README**
+## **2. Design Preparation**
 
-If you want, I can now also generate:
+![img](https://i.ibb.co/Mkn1fvRt/Screenshot-from-2025-10-04-19-56-41.png)
 
-✅ A full **project README** with all sections
-OR
-✅ README for **Week 9 final submission (VSDBabySoC)**
-OR
-✅ README combining **your two previous repos + these screenshots**
+---
 
-Just tell me **which one you want**.
+## **3. Synthesis**
+
+![img](https://i.ibb.co/208FSvYq/Screenshot-from-2025-10-04-20-02-14.png)
+
+---
+
+## **4. Floorplan**
+Copy-paste directly into your `README.md`.
+
+---
+
+![img](https://i.ibb.co/RGx2DT45/Screenshot-from-2025-10-03-19-58-53.png)
+
+---
+
+## **5. Placement**
+
+![img](https://i.ibb.co/xqx332CH/Screenshot-from-2025-10-03-20-56-07.png)
+
+---
+
