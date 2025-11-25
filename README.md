@@ -19,13 +19,7 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 - [Physical-Design-Workshop](https://github.com/manohargumma/Physical-Design-Workshop) – Hands-on layout/placement practices  
 
 
-Got it — you want the **images to be visible directly in the README**, not just links.
 
-Here is the **markdown version with images displayed**, using your exact image URLs.
-
-You can **copy–paste this directly into README.md** and GitHub will show all images.
-
----
 
 #  **Tool Installation **
 
@@ -269,3 +263,7 @@ Copy-paste directly into your `README.md`.
 ![VSDBabySoC STA](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2b38cc277a994bd1d54e62eb6e019cd21d323326/Screenshot%20from%202025-10-11%2012-02-10.png)
 
 ---
+# week-4
+## The plot of Ids vs Vds over constant Vgs:
+![image](https://github.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/blob/7e1e3a0769f7f19e38580a00c6c3442d4775182d/Screenshot%20from%202025-10-16%2016-05-03.png)
+![image](https://github.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/blob/7e1e3a0769f7f19e38580a00c6c3442d4775182d/Screenshot%20from%202025-10-16%2016-05-09.png)
