@@ -18,4 +18,3 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 - [OpenROAD-Installation-guide-BUILD-With-Docker](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker) – Tool setup documentation  
 - [Physical-Design-Workshop](https://github.com/manohargumma/Physical-Design-Workshop) – Hands-on layout/placement practices  
 
-By merging and building upon these, this new repository presents a **single comprehensive submission** as required by the Week 9 task.
