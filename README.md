@@ -55,11 +55,8 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 
 ![docker-check](https://i.ibb.co/HLHVj20z/Screenshot-from-2025-09-20-16-25-11.png)
 
----
----Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-No extra text. No explanation.
-Just clean headings + links.
+
 ## **8. OpenLane + PDK Setup**
 
 ### **8.1 CIEL Remote PDK List**
