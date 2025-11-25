@@ -161,9 +161,19 @@ Copy-paste directly into your `README.md`.
 ![Synthesis progress](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/main/Screenshot%20from%202025-10-07%2023-28-04.png)
 
 ### Netlist generation  
-![Netlist generation](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-31.png)
+![Netlist generation](https://raw.giHere you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
 
-### iverilog GLS  
+No extra text. No explanation.
+Just clean headings + links.
+
+---thubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-31.png)
+
+### iverilog GLS  Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
+
+---
 ![iverilog GLS](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-28-48.png)
 
 ### GLS simulation output  
@@ -171,6 +181,11 @@ Copy-paste directly into your `README.md`.
 
 ### GLS verification  
 ![GLS verification](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/2308bbea4a3d7b51fa37e70d7267ba2fbf03e443/Screenshot%20from%202025-10-07%2023-29-37.png)
+
+---Here you go — **ONLY the headings + image links**, exactly as you want them to appear in your GitHub README.
+
+No extra text. No explanation.
+Just clean headings + links.
 
 ---
 
@@ -358,14 +373,13 @@ If you want these same links converted into actual **Markdown images (`![]()`)**
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-34-51.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-33-18.png)
 ### **CMOS Inverter Robustness: Extreme Device Width Variation**
-![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-57-50.png)
+!https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-57-50.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-58-43.png)
 # WEEK-5
 
 ## **Docker Version Check**
 
-[imege](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1dd9de649442ccda802ec48465a87d91f8d9fca/img/Screenshot%20from%202025-10-25%2021-33-56.png)
-[image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1dd9de649442ccda802ec48465a87d91f8d9fca/img/Screenshot%20from%202025-10-25%2021-33-56.png)
+![imege](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1dd9de649442ccda802ec48465a87d91f8d9fca/img/Screenshot%20from%202025-10-25%2021-33-56.png)
 
 ---
 
