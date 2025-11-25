@@ -1,3 +1,61 @@
+Sure! Here are **only the headings with their corresponding image links**, clean and separated — exactly as you asked.
+(✔ No extra explanation, ✔ No text, ✔ Only Heading → Link)
+
+---
+
+## **Prep – OpenLANE Synthesis (Screenshots)**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png)
+
+## **Synthesis Run Screenshot**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png)
+
+## **Yosys Report Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png)
+
+## **Flop Ratio Calculation**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png)
+
+## **Floorplan Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png)
+
+## **Placement Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png)
+
+## **Custom Cell (Inverter) – Magic Layout Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png)
+
+---
+
+If you want, I can also **convert this entire README into a clean GitHub-ready markdown file**.
 # Manohar-VSDBabySoC-Final-Submission
 
 # VSDBabySoC – Complete RTL-to-GDSII Journey  
@@ -119,7 +177,123 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# Week-3 — Post-Synthesis GLS & STA — VSDBabySoC
+# Week-3 — Post-Synthesis GLS & STA — VSDBabySoCSure! Here are **only the headings with their corresponding image links**, clean and separated — exactly as you asked.
+(✔ No extra explanation, ✔ No text, ✔ Only Heading → Link)
+
+---
+
+## **Prep – OpenLANE Synthesis (Screenshots)**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png)
+
+## **Synthesis Run Screenshot**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png)
+
+## **Yosys Report Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png)
+
+## **Flop Ratio Calculation**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png)
+
+## **Floorplan Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png)
+
+## **Placement Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png)
+
+## **Custom Cell (Inverter) – Magic Layout Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png)
+
+---
+
+If you want, I can also **convert this entire README into a clean GitHub-ready markdown file**.
+Sure! Here are **only the headings with their corresponding image links**, clean and separated — exactly as you asked.
+(✔ No extra explanation, ✔ No text, ✔ Only Heading → Link)
+
+---
+
+## **Prep – OpenLANE Synthesis (Screenshots)**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png)
+
+## **Synthesis Run Screenshot**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png)
+
+## **Yosys Report Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png)
+
+## **Flop Ratio Calculation**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png)
+
+## **Floorplan Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png)
+
+## **Placement Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png)
+
+## **Custom Cell (Inverter) – Magic Layout Screenshots**
+
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png)
+[https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png)
+
+---
+
+If you want, I can also **convert this entire README into a clean GitHub-ready markdown file**.
+
 
 
 # 1️⃣ Reading Verilog Files
@@ -367,5 +541,60 @@ Copy-paste directly into your `README.md`.
 ![image](https://github.com/manohargumma/OpenROAD-Installation-guide--BUILD-With-Docker/blob/f1e46b684263062aadd1acbbad531440a869fa08/img/Screenshot%20from%202025-10-25%2021-02-48.png)
 
 
+# week-6
+
+---
+
+## **Prep – OpenLANE Synthesis (Screenshots)**
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-30.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-38.png)
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-28-43.png)
+
+## **Synthesis Run Screenshot**
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2019-30-43.png)
+
+## **Yosys Report Screenshots**
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-38.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-45.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/609dcc0612bff50a90630a300227f188c61607da/images/Screenshot%20from%202025-10-30%2021-07-53.png)
+
+## **Flop Ratio Calculation**
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-10-02.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/43f24eaf0abd539ec71242c0b43fa55d21ebfd96/images/Screenshot%20from%202025-10-30%2022-13-57.png)
+
+## **Floorplan Screenshots**
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/Screenshot%20from%202025-10-31%2019-21-45.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-44-15.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-23.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2000-46-28.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/0316f1e22bbe73f0fcb6fd1566d4c72af63873b1/images/Screenshot%20from%202025-10-31%2001-08-32.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-16-23.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/ddce85b06304ecf2a5ce66e1ac338c87f99aa263/images/Screenshot%20from%202025-10-31%2001-19-12.png)
+
+## **Placement Screenshots**
+
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-12-50.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-27-43.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-28-07.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/ea7869831e0f395a507fc7b91e3b585e9c59ecda/images/Screenshot%20from%202025-10-31%2009-29-24.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/6a99f4af4366326d6d13c53980f368d50c861922/images/picorv32a.placement.def.png)
+
+## **Custom Cell (Inverter) – Magic Layout Screenshots**
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-46-49.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-55-40.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2011-59-01.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-00.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-07-17.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-11-51.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-52.png)
+![image](https://github.com/manohargumma/Physical-Design-Workshop/blob/33609411384f46bf305e193f1e5b57728d46bf8f/images/Screenshot%20from%202025-10-31%2014-51-32.png)
+
+---
 
 
