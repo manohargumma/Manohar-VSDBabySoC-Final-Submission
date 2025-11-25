@@ -176,7 +176,8 @@ Copy-paste directly into your `README.md`.
 
 # 4️⃣ DFF Mapping
 
-### dfflibmap  
+### dfflibmap    Static behavior evaluation: CMOS inverter robustness, Noise margin
+##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
 ![dfflibmap](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/d19c73a011980fa99840aeda6236368bf577bee7/Screenshot%20from%202025-10-07%2023-32-03.png)
 
 ---
@@ -207,7 +208,8 @@ Copy-paste directly into your `README.md`.
 
 ---
 
-# 7️⃣ Statistics
+# 7️⃣ Statistics  Static behavior evaluation: CMOS inverter robustness, Noise margin
+##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
 
 ### stat-1  
 ![stat-1](https://raw.githubusercontent.com/manohargumma/Post-Synthesis-GLS-STA-Fundamentals/7c3a334eaa734eb84950d499d893a205dd40387e/Screenshot%20from%202025-10-07%2023-37-20.png)
@@ -275,11 +277,24 @@ Copy-paste directly into your `README.md`.
 
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-03-55.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-55.png)
-![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-35.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIR  Static behavior evaluation: CMOS inverter robustness, Noise margin
+##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)CUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-35.png)
 
-### Sky130 SPICE simulation for CMOS - VTC
+### Sky130 SPICE simulation for CMOS - VTC  Static behavior evaluation: CMOS inverter robustness, Noise margin
+##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
 
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-12.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-32.png)
 ### Sky130 SPICE simulation for CMOS - Transient Analysis
  ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/0b4d5b25ac94c10d92a98653432af855bafa745f/DAY3/day3pics/Screenshot%20from%202025-10-16%2012-20-46.png)
+ ### Static behavior evaluation: CMOS inverter robustness, Noise margin
+##### Noise Margin - sky130 Inverter (Wp/Lp=1u/0.15u, Wn/Ln=0.36u/0.15u)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/f3fdf863c94a986543f5e7884f4123252661f53f/DAY4/day4pics/Screenshot%20from%202025-10-16%2023-16-05.png)
+### Static behavior evaluation: CMOS inverter robustness, Power supply variation
+#### Smart SPICE simulation for power supply variations
+
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-34-51.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/9dcd8cf59ba1818e62522444f883ea10a3e4da69/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-33-18.png)
+### **CMOS Inverter Robustness: Extreme Device Width Variation**
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-57-50.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/fb25d9fc6de331b877b0bd3d2f7ff1aa052675b8/DAY5/day5pics/Screenshot%20from%202025-10-16%2023-58-43.png)
