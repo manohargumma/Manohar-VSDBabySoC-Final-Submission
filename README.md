@@ -21,3 +21,7 @@ This repository consolidates my complete work on the VSDBabySoC project — from
 # TOOLS Instaltion
  ### yosys
  <a href="https://ibb.co/8ndMQqSG"><img src="https://i.ibb.co/BHrLYbSv/Screenshot-from-2025-09-19-22-01-43.png" alt="Screenshot-from-2025-09-19-22-01-43" border="0"></a><br />
+ ### iverilog
+ <a href="https://ibb.co/h1nhWF1c"><img src="https://i.ibb.co/YTKYkBTX/Screenshot-from-2025-09-19-22-22-25.png" alt="Screenshot-from-2025-09-19-22-22-25" border="0"></a><br>
+ ### gtkwave
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/Xx35s7Sv/Screenshot-from-2025-09-19-22-28-02.png" alt="Screenshot-from-2025-09-19-22-28-02" border="0"></a><br>
