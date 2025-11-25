@@ -277,4 +277,9 @@ Copy-paste directly into your `README.md`.
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-55.png)
 ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/356eeed85c5581139ccfafd17e358ff992fd1c3d/DAY2/picslab2/Screenshot%20from%202025-10-16%2020-04-35.png)
 
+### Sky130 SPICE simulation for CMOS - VTC
 
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-12.png)
+![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/adf92648afa74771e56fa76a69d2d8d43c95923c/DAY3/day3pics/Screenshot%20from%202025-10-16%2022-21-32.png)
+### Sky130 SPICE simulation for CMOS - Transient Analysis
+ ![image](https://github.com/manohargumma/INTRODUCTION-TO-CIRCUIT-DESIGN-AND-SPICE-SIMUATIONS/blob/0b4d5b25ac94c10d92a98653432af855bafa745f/DAY3/day3pics/Screenshot%20from%202025-10-16%2012-20-46.png)
